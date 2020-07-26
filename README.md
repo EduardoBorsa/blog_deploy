@@ -1,5 +1,8 @@
 # Blog
+
 [![Build Status](https://travis-ci.org/EduardoBorsa/blog_deploy.svg?branch=master)](https://travis-ci.org/EduardoBorsa/blog_deploy)
+
+[![codecov](https://codecov.io/gh/EduardoBorsa/blog_deploy/branch/master/graph/badge.svg)](https://codecov.io/gh/EduardoBorsa/blog_deploy)
 
 To start your Phoenix server:
 
